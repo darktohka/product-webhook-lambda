@@ -1,0 +1,16 @@
+{
+  "name": "product-webhook-lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.149",
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
+  }
+}
